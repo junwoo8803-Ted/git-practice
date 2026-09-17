@@ -1,1 +1,0 @@
-Temporary helper file for Lab 8 image generation.
