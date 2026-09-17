@@ -1,1 +1,0 @@
-Lab 8 completed in a separate local Git repository. Final branch: main. Command used: git log --oneline --decorate --graph --all
